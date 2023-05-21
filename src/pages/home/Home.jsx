@@ -1,6 +1,8 @@
 import "./Home.scss";
 import Sidebar from "../../components/sidebar/Sidebar";
 import Navbar from "../../components/navbar/Navbar";
+import Widget from "../../components/widget/Widget";
+
 const Home = () => {
   return (
     <div className="home">
@@ -8,11 +10,14 @@ const Home = () => {
       <div className="homeContainer">
         <Navbar />
         <div className="widgets">
-          <div></div>
+          <Widget type="users" />
+          <Widget type="order" />
+          <Widget type="erarning" />
+          <Widget type="balance" />
         </div>
       </div>
     </div>
-  );
+  ); 
 };
 
 export default Home;

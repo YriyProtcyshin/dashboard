@@ -1,0 +1,32 @@
+[
+  {
+    "users": {
+      "title": "USERS",
+      "isMoney": false,
+      "link": "See all users",
+      "count": 23423,
+      "def": 20
+    },
+    "order": {
+      "title": "ORDER",
+      "isMoney": false,
+      "link": "See all orders",
+      "count": 123,
+      "def": -15
+    },
+    "erarning": {
+      "title": "ERARNIG",
+      "isMoney": true,
+      "link": "See all erarnins",
+      "count": 1232,
+      "def": -54
+    },
+    "balance": {
+      "title": "BALANCE",
+      "isMoney": true,
+      "link": "See details",
+      "count": 2345,
+      "def": 34
+    }
+  }
+]
