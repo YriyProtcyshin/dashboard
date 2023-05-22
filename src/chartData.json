@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Jan",
+    "Total": 4000
+  },
+  {
+    "name": "Feb",
+    "Total": 3000
+  },
+  {
+    "name": "Mar",
+    "Total": 2000
+  },
+  {
+    "name": "Apr",
+    "Total": 2780
+  },
+  {
+    "name": "May",
+    "Total": 1890
+  },
+  {
+    "name": "Jun",
+    "Total": 2390
+  },
+  {
+    "name": "Jul",
+    "Total": 3490
+  },
+  {
+    "name": "Aug",
+    "Total": 2987
+  },
+  {
+    "name": "Sept",
+    "Total": 2190
+  },
+  {
+    "name": "Oct",
+    "Total": 1890
+  },
+  {
+    "name": "Nov",
+    "Total": 3490
+  },
+  {
+    "name": "Dec",
+    "Total": 3600
+  }
+]

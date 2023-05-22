@@ -35,7 +35,7 @@ const Navbar = () => {
           </div>
           <div className="item">
             <ListOutlinedIcon className="icon" />
-            <div className="counter">20</div>
+            <div className="counter">20 </div>
           </div>
           <div className="item">
             <img
