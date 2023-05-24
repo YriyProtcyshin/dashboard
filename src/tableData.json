@@ -1,0 +1,43 @@
+[
+    {
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "color": "Graphite",
+      "storage": "256GB",
+      "price": 1099.99,
+      "release_date": "2022-09-14"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21 Ultra",
+      "color": "Phantom Black",
+      "storage": "128GB",
+      "price": 1199.99,
+      "release_date": "2021-01-29"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 6 Pro",
+      "color": "Stormy Black",
+      "storage": "256GB",
+      "price": 899.99,
+      "release_date": "2022-10-19"
+    },
+    {
+      "brand": "OnePlus",
+      "model": "9 Pro",
+      "color": "Morning Mist",
+      "storage": "256GB",
+      "price": 899.0,
+      "release_date": "2021-03-23"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 12",
+      "color": "Cosmic Black",
+      "storage": "128GB",
+      "price": 799.99,
+      "release_date": "2023-02-10"
+    }
+  ]
+
